@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "category": "audi",
+        "model": "Audi A3",
+        "price": 18300,
+        "year": 2015,
+        "img": "assets/images/audi1.png"
+    },
+
+    {
+        "id": 2,
+        "category": "audi",
+        "model": "Audi Q7",
+        "price": 67900,
+        "year": 2020,
+        "img": "assets/images/audi2.png"
+    },
+
+    {
+        "id": 3,
+        "category": "bmw",
+        "model": "BMW 5 G30",
+        "price": 29900,
+        "year": 2018,
+        "img": "assets/images/bmw1.png"
+    },
+    {
+        "id": 4,
+        "category": "bmw",
+        "model": "BMW X5",
+        "price": 81500,
+        "year": 2024,
+        "img": "assets/images/bmw2.png"
+    },
+    {
+        "id": 5,
+        "category": "bmw",
+        "model": "BMW X5 F15",
+        "price": 37000,
+        "year": 2016,
+        "img": "assets/images/bmw3.png"
+    },
+    {
+        "id": 6,
+        "category": "bmw",
+        "model": "BMW 3",
+        "price": 15500,
+        "year": 2014,
+        "img": "assets/images/bmw4.png"
+    }
+]
